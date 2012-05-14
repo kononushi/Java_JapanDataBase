@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+    name="items2" >
+
+    <item>本体に保存</item>
+    <item>SDカードに保存</item>
+
+    </string-array>
+</resources>

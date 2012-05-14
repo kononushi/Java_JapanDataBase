@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+    name="items" >
+
+    <item>日本の県データ</item>
+    <item>アメリカの州データ</item>
+    <item>未定</item>
+    <item>未定</item>
+
+    </string-array>
+</resources>

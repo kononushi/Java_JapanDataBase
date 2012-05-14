@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, JapanViewActivity!</string>
+    <string name="app_name">都道府県データベース</string>
+    <string name="app2_name">スカイネットシステム</string>
+    <string name="label_button_import">インポート</string>
+    <string name="label_button_export">エクスポート</string>
+
+</resources>
