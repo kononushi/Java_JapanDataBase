@@ -1,5 +1,7 @@
 package com.groupb.android.pdata;
 
+
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -35,6 +37,12 @@ import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.Toast;
 
+/**
+ * タイトルアクティビティ
+ *
+ * @author kononushi
+ *
+ */
 public class JapanView extends ListActivity implements OnClickListener,
 		AnimationListener, DialogInterface.OnClickListener {
 
